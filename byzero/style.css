@@ -1,0 +1,169 @@
+#content {
+    width: 100%;
+    text-align: center;
+    margin: 0% auto;
+}
+
+#para1,
+#para3 {
+    width: 33%;
+    padding: 20px;
+    float: left;
+    margin-top: 2%;
+    text-align: center;
+    border: 2px solid rgb(140, 140, 233);
+    background-color:rgb(140, 140, 233) ;
+    color: white;
+}
+
+#para2 {
+    width: 33%;
+    padding: 20px;
+    float: left;
+    margin-top: 2%;
+    text-align: center;
+    border: 2px solid rgb(34, 33, 33);
+    background-color: rgb(34, 33, 33) ;
+    color: white;
+
+}
+
+#websiteheading {
+    color: rgb(58, 89, 226);
+    font-weight: 600;
+}
+
+.websiteborder {
+    border-bottom: 4px solid rgb(58, 89, 226);
+}
+
+.mainpara {
+    margin-top: 3%;
+    color: rgb(83, 79, 79);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+.servicepara{
+    margin-top: 3%;
+    color: rgb(83, 79, 79);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+.readmore {
+    border-radius: 14px;
+    padding: 4px 14px;
+}
+
+.readmore:hover {
+    background-color: rgb(102, 102, 228);
+    color: white;
+}
+
+#ourservices {
+    width: 60%;
+    text-align: center;
+    margin: 0% auto;
+    color: rgb(83, 79, 79);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+#serviceheading {
+    color: rgb(58, 89, 226);
+    font-weight: 600;
+}
+
+.serviceborder {
+    border-bottom: 4px solid rgb(58, 89, 226);
+}
+
+#carrers {
+    width: 80%;
+    text-align: center;
+    margin: 0% auto;
+}
+
+.carrers-bg {
+    width: 28%;
+    background-color: lightgray;
+    color: rgb(58, 89, 226);
+    font-weight: bold;
+    padding: 12px;
+    margin-right: 4%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+ul>li {
+    list-style: none;
+}
+
+#webdesign,
+#webdevelopment,
+#theme,
+#game,
+#apps,
+#desktop,
+#worddev,
+#wordplug,
+#support {
+    float: left;
+    text-align: left;
+    padding-left: 15px;
+}
+
+#webdesign:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+    text-align: left;
+}
+
+#webdevelopment:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#theme:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#game:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#apps:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#desktop:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#worddev:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#wordplug:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
+
+#support:hover {
+    background-color: lightcoral;
+    color: white;
+    text-decoration: none;
+}
